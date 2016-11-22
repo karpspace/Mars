@@ -8,5 +8,5 @@ use App\Http\Requests;
 
 class Nasa extends Controller
 {
-   private $x;
+   private $cccx;
 }
